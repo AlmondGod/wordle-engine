@@ -1,0 +1,8 @@
+Type in a valid five-letter word for your guess!
+
+Green is the right letter in the right spot
+Yellow is the right letter in the wrong spot
+Grey is the wrong letter
+
+Use only lowercase letters!
+Have fun!
